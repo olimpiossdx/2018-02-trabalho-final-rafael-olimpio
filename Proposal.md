@@ -12,17 +12,24 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de ...
+  O trabalho final tem como tema o desenvolvimento de uma aplicação de Controle de Revisão de Veículos.
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+  Este projeto terá as seguintes funcionalidades: 
+  
+  Cadastramento de funcionário
+  Cadastramento de clientes (com seus respectivos veículos)
+  Criação de calendário para cada funcionário, onde será listado todos os veículos sobe responsabilidade do mesmo.
+  Consulta por parte do cliente para consulta de status do veículo.
+  
+  Durante o processo de desenvolvimento poderá ser criada/removida novas funcionalidades. 
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 
-  Neste trabalho não serão considerados ...
+  Neste trabalho poderá ser utilizado frameworks e aplicações que possam a vir facilitar o desenvolvimento da aplicação.
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
