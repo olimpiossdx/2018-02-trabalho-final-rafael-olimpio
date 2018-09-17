@@ -4,8 +4,8 @@
 
 * #### Students
 
-Olimpio Pimenta
-Rafael
+Olimpio Pimenta<br/>
+Rafael Oliveira<br/>
 
 ***********************************
 
@@ -17,12 +17,15 @@ Vehicle Inspection Control System
 
 * #### Resources
 
-HTML, CSS, JavaScript and Frameworks
+HTML<br/>
+CSS<br/>
+JavaScript<br/>
+Frameworks<br/>
 
 **********************************
 
 * #### Contact
 
-[Contact Rafael](mailto:rafael.fo@aluno.ufop.edu.br)
+[Contact Rafael](mailto:rafael.fo@aluno.ufop.edu.br)<br/>
 [Contact Olimpio](mailto:olimpiodx@gmail.com)
 
